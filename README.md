@@ -11,7 +11,7 @@ It explicitly models:
 ⚠️ **Not financial advice.** This is a quantitative sandbox, not a planning tool.
 
 ---
-<repo-root>/success_rate_by_retirement_age.png
+![Success Rate by Retirement Age](success_rate_by_retirement_age.png)
 
 ## Key Features
 
